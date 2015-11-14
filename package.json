@@ -1,0 +1,27 @@
+{
+  "name": "2015-11-jasmine",
+  "version": "1.0.0",
+  "description": "TDD in Jasmin npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sseletskyy/2015-11-jasmine.git"
+  },
+  "keywords": [
+    "jasmine",
+    "tdd",
+    "npm"
+  ],
+  "author": "Serge Seletskyy <sseletskyy@gmail.com> (http://github.com/sseletskyy)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sseletskyy/2015-11-jasmine/issues"
+  },
+  "homepage": "https://github.com/sseletskyy/2015-11-jasmine#readme",
+  "devDependencies": {
+    "jasmine": "^2.3.2"
+  }
+}
